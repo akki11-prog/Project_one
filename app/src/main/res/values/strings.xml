@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Project_one</string>
+    <string name="submit_button">Submit</string>
+    <string name="higher_button">Higher</string>
+    <string name="lower_button">Lower</string>
+    <string name="computer_dice_label">Computer Dice : </string>
+    <string name="win_text">User WIN!!</string>
+    <string name="loose_text">Computer WIN!!</string>
+    <string name="tie_text">IT\'S A Tie!!</string>
+    <string name="blank_str"></string>
+</resources>
